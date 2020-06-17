@@ -1,4 +1,5 @@
-# cd /var/atlassian/application-data/jira/
+#jira
+ cd /var/atlassian/application-data/jira/
  git init
  git add .
  git commit -m "jira backup ecport"
