@@ -1,0 +1,181 @@
+2020-05-27 08:58:23,692+0000 http-nio-8080-exec-3 anonymous 538x3x1 - 113.193.236.241 /secure/SetupMode!default.jspa HttpSession created [1u7z9k6]
+2020-05-27 08:59:40,370+0000 http-nio-8080-exec-17 anonymous 539x211x1 - 198.108.66.245 /secure/SetupMode!default.jspa HttpSession created [11ppgqw]
+2020-05-27 09:00:58,649+0000 AsynchronousJiraSetup anonymous 540x214x1 1u7z9k6 113.193.236.241 /secure/SetupFinishing!triggerSetup.jspa Jira 8.9.0 build: 809000 started. You can now access Jira through your web browser.
+2020-05-27 09:25:12,039+0000 http-nio-8080-exec-14 admin 565x841x1 1u7z9k6 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-27 09:25:12,058+0000 http-nio-8080-exec-14 admin 565x841x1 1u7z9k6 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1u7z9k6] destroyed for 'admin'
+2020-05-27 09:25:12,058+0000 http-nio-8080-exec-14 admin 565x841x1 1u7z9k6 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [14g16ix]
+2020-05-27 09:30:47,454+0000 http-nio-8080-exec-18 anonymous 570x1401x3 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1qqyst0]
+2020-05-27 09:30:47,462+0000 http-nio-8080-exec-18 admin 570x1401x3 1qqyst0 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1qqyst0] destroyed for 'admin'
+2020-05-27 09:49:42,229+0000 http-nio-8080-exec-11 anonymous 589x1869x1 - 184.105.247.196 / HttpSession created [m6qnzz]
+2020-05-27 09:51:05,996+0000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [m6qnzz] destroyed for 'anonymous'
+2020-05-27 10:15:49,075+0000 http-nio-8080-exec-8   -   HttpSession created [1olscrw]
+2020-05-27 10:20:23,101+0000 http-nio-8080-exec-22 admin 620x2513x1 14g16ix 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-27 10:20:23,103+0000 http-nio-8080-exec-22 admin 620x2513x1 14g16ix 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [14g16ix] destroyed for 'admin'
+2020-05-27 10:20:23,103+0000 http-nio-8080-exec-22 admin 620x2513x1 14g16ix 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [18nt4tk]
+2020-05-27 10:26:15,613+0000 http-nio-8080-exec-19 anonymous 626x2819x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [5h1veu]
+2020-05-27 10:26:15,615+0000 http-nio-8080-exec-19 admin 626x2819x2 5h1veu 3.17.236.107 /rest/webResources/1.0/resources HttpSession [5h1veu] destroyed for 'admin'
+2020-05-27 10:54:11,836+0000 http-nio-8080-exec-9 anonymous 654x3030x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1qvzrqe]
+2020-05-27 10:54:11,837+0000 http-nio-8080-exec-9 admin 654x3030x2 1qvzrqe 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1qvzrqe] destroyed for 'admin'
+2020-05-27 11:05:15,054+0000 http-nio-8080-exec-10 anonymous 665x3174x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [r7cis3]
+2020-05-27 11:05:15,056+0000 http-nio-8080-exec-10 admin 665x3174x2 r7cis3 3.17.236.107 /rest/webResources/1.0/resources HttpSession [r7cis3] destroyed for 'admin'
+2020-05-27 11:07:26,602+0000 http-nio-8080-exec-11 admin 667x3235x1 18nt4tk 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-27 11:07:26,604+0000 http-nio-8080-exec-11 admin 667x3235x1 18nt4tk 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [18nt4tk] destroyed for 'admin'
+2020-05-27 11:07:26,604+0000 http-nio-8080-exec-11 admin 667x3235x1 18nt4tk 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [x9l2b9]
+2020-05-27 11:11:00,345+0000 http-nio-8080-exec-22 anonymous 671x3370x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1dv7pzp]
+2020-05-27 11:11:00,346+0000 http-nio-8080-exec-22 admin 671x3370x2 1dv7pzp 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1dv7pzp] destroyed for 'admin'
+2020-05-27 11:11:16,470+0000 localhost-startStop-2      HttpSession [11ppgqw] destroyed for 'anonymous'
+2020-05-27 11:11:16,470+0000 localhost-startStop-2      HttpSession [1olscrw] destroyed for 'anonymous'
+2020-05-27 11:11:16,470+0000 localhost-startStop-2      HttpSession [x9l2b9] destroyed for 'admin'
+2020-05-28 03:31:01,585+0000 http-nio-8080-exec-2      HttpSession created [1hvrw65]
+2020-05-28 03:31:53,708+0000 JIRA-Bootstrap      Jira 8.9.0 build: 809000 started. You can now access Jira through your web browser.
+2020-05-28 03:32:30,233+0000 http-nio-8080-exec-21 anonymous 212x16x1 1hvrw65 113.193.236.241 /rest/gadget/1.0/login HttpSession [1hvrw65] destroyed for 'anonymous'
+2020-05-28 03:32:30,233+0000 http-nio-8080-exec-21 anonymous 212x16x1 1hvrw65 113.193.236.241 /rest/gadget/1.0/login HttpSession created [o4gmwf]
+2020-05-28 03:32:30,260+0000 http-nio-8080-exec-21 admin 212x16x1 1hvrw65 113.193.236.241 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2020-05-28 03:32:34,656+0000 http-nio-8080-exec-16 anonymous 212x34x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [e2cz45]
+2020-05-28 03:32:34,660+0000 http-nio-8080-exec-16 admin 212x34x2 e2cz45 3.17.236.107 /rest/webResources/1.0/resources HttpSession [e2cz45] destroyed for 'admin'
+2020-05-28 03:34:37,952+0000 http-nio-8080-exec-24 admin 214x160x1 o4gmwf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 03:34:37,956+0000 http-nio-8080-exec-24 admin 214x160x1 o4gmwf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [o4gmwf] destroyed for 'admin'
+2020-05-28 03:34:37,956+0000 http-nio-8080-exec-24 admin 214x160x1 o4gmwf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [6teafl]
+2020-05-28 04:39:56,070+0000 http-nio-8080-exec-2 admin 279x568x1 6teafl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 04:39:56,072+0000 http-nio-8080-exec-2 admin 279x568x1 6teafl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [6teafl] destroyed for 'admin'
+2020-05-28 04:39:56,072+0000 http-nio-8080-exec-2 admin 279x568x1 6teafl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1q65ypl]
+2020-05-28 04:46:59,255+0000 http-nio-8080-exec-7 anonymous 286x650x1 - 113.193.236.241 / HttpSession created [1y15h4s]
+2020-05-28 04:47:35,142+0000 http-nio-8080-exec-18 anonymous 287x682x1 1y15h4s 113.193.236.241 /rest/gadget/1.0/login login : 'lakshmi.l' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2020-05-28 04:48:00,507+0000 http-nio-8080-exec-1 anonymous 288x685x1 1y15h4s 113.193.236.241 /rest/gadget/1.0/login login : 'lakshmi.l' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2020-05-28 04:48:05,584+0000 http-nio-8080-exec-10 anonymous 288x697x1 1y15h4s 113.193.236.241 /rest/gadget/1.0/login HttpSession [1y15h4s] destroyed for 'anonymous'
+2020-05-28 04:48:05,584+0000 http-nio-8080-exec-10 anonymous 288x697x1 1y15h4s 113.193.236.241 /rest/gadget/1.0/login HttpSession created [5mn7ns]
+2020-05-28 04:48:05,587+0000 http-nio-8080-exec-10 lakshmi.l 288x697x1 1y15h4s 113.193.236.241 /rest/gadget/1.0/login The user 'lakshmi.l' has PASSED authentication.
+2020-05-28 05:14:02,040+0000 http-nio-8080-exec-21 admin 314x976x1 1q65ypl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 05:14:02,042+0000 http-nio-8080-exec-21 admin 314x976x1 1q65ypl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1q65ypl] destroyed for 'admin'
+2020-05-28 05:14:02,042+0000 http-nio-8080-exec-21 admin 314x976x1 1q65ypl 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [nqbp81]
+2020-05-28 05:30:41,382+0000 http-nio-8080-exec-3 admin 330x1033x1 nqbp81 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 05:30:41,384+0000 http-nio-8080-exec-3 admin 330x1033x1 nqbp81 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [nqbp81] destroyed for 'admin'
+2020-05-28 05:30:41,384+0000 http-nio-8080-exec-3 admin 330x1033x1 nqbp81 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [8g0x2t]
+2020-05-28 05:54:24,190+0000 http-nio-8080-exec-15 lakshmi.l 354x1337x1 5mn7ns 113.193.236.241 /login.jsp The user 'lakshmi.l' has PASSED authentication.
+2020-05-28 05:54:40,562+0000 http-nio-8080-exec-12 anonymous 354x1427x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1rqdyw0]
+2020-05-28 05:54:40,564+0000 http-nio-8080-exec-12 lakshmi.l 354x1427x2 1rqdyw0 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1rqdyw0] destroyed for 'lakshmi.l'
+2020-05-28 05:54:41,197+0000 http-nio-8080-exec-19 lakshmi.l 354x1437x1 5mn7ns 113.193.236.241 /secure/Logout!default.jspa HttpSession [5mn7ns] destroyed for 'lakshmi.l'
+2020-05-28 05:54:41,198+0000 http-nio-8080-exec-19 lakshmi.l 354x1437x1 5mn7ns 113.193.236.241 /secure/Logout!default.jspa HttpSession created [1n1oxqh]
+2020-05-28 05:54:41,198+0000 http-nio-8080-exec-19 lakshmi.l 354x1437x1 5mn7ns 113.193.236.241 /secure/Logout!default.jspa The user 'lakshmi.l' has logged out.
+2020-05-28 05:55:08,693+0000 http-nio-8080-exec-8 anonymous 355x1454x1 1n1oxqh 113.193.236.241 /login.jsp HttpSession [1n1oxqh] destroyed for 'anonymous'
+2020-05-28 05:55:08,693+0000 http-nio-8080-exec-8 anonymous 355x1454x1 1n1oxqh 113.193.236.241 /login.jsp HttpSession created [91i80r]
+2020-05-28 05:55:08,695+0000 http-nio-8080-exec-8 rajiismyid 355x1454x1 1n1oxqh 113.193.236.241 /login.jsp The user 'rajiismyid' has PASSED authentication.
+2020-05-28 06:02:31,080+0000 http-nio-8080-exec-4 anonymous 362x1555x1 - 223.71.167.163 / HttpSession created [zz2rtr]
+2020-05-28 06:03:52,960+0000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [zz2rtr] destroyed for 'anonymous'
+2020-05-28 06:12:25,408+0000 http-nio-8080-exec-23 anonymous 372x1741x1 - 113.193.236.241 /osd.jsp HttpSession created [gm8zmb]
+2020-05-28 06:13:53,059+0000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [gm8zmb] destroyed for 'anonymous'
+2020-05-28 06:52:18,627+0000 http-nio-8080-exec-10 admin 412x1916x1 8g0x2t 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 06:52:18,629+0000 http-nio-8080-exec-10 admin 412x1916x1 8g0x2t 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [8g0x2t] destroyed for 'admin'
+2020-05-28 06:52:18,629+0000 http-nio-8080-exec-10 admin 412x1916x1 8g0x2t 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [xxn7g2]
+2020-05-28 07:00:51,195+0000 http-nio-8080-exec-23 anonymous 420x1931x1 91i80r 113.193.236.241 /login.jsp HttpSession [91i80r] destroyed for 'anonymous'
+2020-05-28 07:00:51,195+0000 http-nio-8080-exec-23 anonymous 420x1931x1 91i80r 113.193.236.241 /login.jsp HttpSession created [10u7r9q]
+2020-05-28 07:00:51,198+0000 http-nio-8080-exec-23 lakshmi.l 420x1931x1 91i80r 113.193.236.241 /login.jsp The user 'lakshmi.l' has PASSED authentication.
+2020-05-28 07:09:08,244+0000 http-nio-8080-exec-6 admin 429x1995x1 xxn7g2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 07:09:08,246+0000 http-nio-8080-exec-6 admin 429x1995x1 xxn7g2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [xxn7g2] destroyed for 'admin'
+2020-05-28 07:09:08,246+0000 http-nio-8080-exec-6 admin 429x1995x1 xxn7g2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [12uw6x2]
+2020-05-28 07:18:37,849+0000 http-nio-8080-exec-15 anonymous 438x2302x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [qq2yp]
+2020-05-28 07:18:37,851+0000 http-nio-8080-exec-15 lakshmi.l 438x2302x2 qq2yp 3.17.236.107 /rest/webResources/1.0/resources HttpSession [qq2yp] destroyed for 'lakshmi.l'
+2020-05-28 07:18:51,030+0000 http-nio-8080-exec-7 lakshmi.l 438x2315x1 10u7r9q 113.193.236.241 /secure/Logout!default.jspa HttpSession [10u7r9q] destroyed for 'lakshmi.l'
+2020-05-28 07:18:51,031+0000 http-nio-8080-exec-7 lakshmi.l 438x2315x1 10u7r9q 113.193.236.241 /secure/Logout!default.jspa HttpSession created [1ymxftk]
+2020-05-28 07:18:51,031+0000 http-nio-8080-exec-7 lakshmi.l 438x2315x1 10u7r9q 113.193.236.241 /secure/Logout!default.jspa The user 'lakshmi.l' has logged out.
+2020-05-28 07:19:38,723+0000 http-nio-8080-exec-6 anonymous 439x2323x1 1ymxftk 113.193.236.241 /login.jsp login : 'kiran.k' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2020-05-28 07:19:38,726+0000 http-nio-8080-exec-6 anonymous 439x2323x1 1ymxftk 113.193.236.241 /login.jsp The user 'kiran.k' has FAILED authentication.  Failure count equals 1
+2020-05-28 07:19:58,279+0000 http-nio-8080-exec-22 anonymous 439x2327x1 1ymxftk 113.193.236.241 /login.jsp login : 'kiran.k' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2020-05-28 07:19:58,281+0000 http-nio-8080-exec-22 anonymous 439x2327x1 1ymxftk 113.193.236.241 /login.jsp The user 'kiran.k' has FAILED authentication.  Failure count equals 2
+2020-05-28 07:20:17,673+0000 http-nio-8080-exec-19 anonymous 440x2331x1 1ymxftk 113.193.236.241 /login.jsp login : 'kiran.k' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2020-05-28 07:20:17,675+0000 http-nio-8080-exec-19 anonymous 440x2331x1 1ymxftk 113.193.236.241 /login.jsp The user 'kiran.k' has FAILED authentication.  Failure count equals 3
+2020-05-28 07:21:11,454+0000 http-nio-8080-exec-9 anonymous 441x2347x1 1ymxftk 113.193.236.241 /login.jsp HttpSession [1ymxftk] destroyed for 'anonymous'
+2020-05-28 07:21:11,454+0000 http-nio-8080-exec-9 anonymous 441x2347x1 1ymxftk 113.193.236.241 /login.jsp HttpSession created [1pxoqu7]
+2020-05-28 07:21:11,456+0000 http-nio-8080-exec-9 hemanth.p 441x2347x1 1ymxftk 113.193.236.241 /login.jsp The user 'hemanth.p' has PASSED authentication.
+2020-05-28 07:23:50,927+0000 http-nio-8080-exec-24 anonymous 443x2464x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [c2065v]
+2020-05-28 07:23:50,928+0000 http-nio-8080-exec-24 hemanth.p 443x2464x2 c2065v 3.17.236.107 /rest/webResources/1.0/resources HttpSession [c2065v] destroyed for 'hemanth.p'
+2020-05-28 07:24:09,411+0000 http-nio-8080-exec-9 anonymous 444x2481x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1e6zhxl]
+2020-05-28 07:24:09,412+0000 http-nio-8080-exec-9 hemanth.p 444x2481x2 1e6zhxl 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1e6zhxl] destroyed for 'hemanth.p'
+2020-05-28 07:24:16,593+0000 http-nio-8080-exec-2 anonymous 444x2493x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [2qkpbo]
+2020-05-28 07:24:16,594+0000 http-nio-8080-exec-2 hemanth.p 444x2493x2 2qkpbo 3.17.236.107 /rest/webResources/1.0/resources HttpSession [2qkpbo] destroyed for 'hemanth.p'
+2020-05-28 07:24:35,789+0000 http-nio-8080-exec-24 anonymous 444x2498x1 - 113.193.236.241 / HttpSession created [mrzqa5]
+2020-05-28 07:24:45,742+0000 http-nio-8080-exec-7 anonymous 444x2537x1 mrzqa5 113.193.236.241 /login.jsp HttpSession [mrzqa5] destroyed for 'anonymous'
+2020-05-28 07:24:45,742+0000 http-nio-8080-exec-7 anonymous 444x2537x1 mrzqa5 113.193.236.241 /login.jsp HttpSession created [funjcm]
+2020-05-28 07:24:45,745+0000 http-nio-8080-exec-7 lakshmi.l 444x2537x1 mrzqa5 113.193.236.241 /login.jsp The user 'lakshmi.l' has PASSED authentication.
+2020-05-28 07:24:53,063+0000 http-nio-8080-exec-17 anonymous 444x2630x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1125kvz]
+2020-05-28 07:24:53,064+0000 http-nio-8080-exec-17 lakshmi.l 444x2630x2 1125kvz 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1125kvz] destroyed for 'lakshmi.l'
+2020-05-28 07:27:50,060+0000 http-nio-8080-exec-22 admin 447x2707x1 12uw6x2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 07:27:50,061+0000 http-nio-8080-exec-22 admin 447x2707x1 12uw6x2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [12uw6x2] destroyed for 'admin'
+2020-05-28 07:27:50,062+0000 http-nio-8080-exec-22 admin 447x2707x1 12uw6x2 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1uqjxet]
+2020-05-28 07:35:54,226+0000 http-nio-8080-exec-2   -   HttpSession created [18fmim8]
+2020-05-28 08:02:05,348+0000 http-nio-8080-exec-25   -   HttpSession created [6guexx]
+2020-05-28 08:34:32,098+0000 http-nio-8080-exec-16 admin 514x2827x2 1uqjxet 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 08:34:32,100+0000 http-nio-8080-exec-16 admin 514x2827x2 1uqjxet 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1uqjxet] destroyed for 'admin'
+2020-05-28 08:34:32,100+0000 http-nio-8080-exec-16 admin 514x2827x2 1uqjxet 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [v9jzmd]
+2020-05-28 08:34:32,113+0000 http-nio-8080-exec-17 anonymous 514x2828x2 - 113.193.236.241 /rest/webResources/1.0/resources HttpSession created [1ry3jhj]
+2020-05-28 08:34:32,116+0000 http-nio-8080-exec-17 admin 514x2828x2 - 113.193.236.241 /rest/webResources/1.0/resources The user 'admin' has PASSED authentication.
+2020-05-28 08:34:32,214+0000 http-nio-8080-exec-2 anonymous 514x2829x2 - 113.193.236.241 /rest/hipchat/integrations/1.0/issuepanel/data/NRI-1 HttpSession created [2vp4u5]
+2020-05-28 08:34:32,217+0000 http-nio-8080-exec-2 admin 514x2829x2 - 113.193.236.241 /rest/hipchat/integrations/1.0/issuepanel/data/NRI-1 The user 'admin' has PASSED authentication.
+2020-05-28 08:35:45,607+0000 http-nio-8080-exec-12 admin 515x2868x1 2vp4u5 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 08:35:45,608+0000 http-nio-8080-exec-12 admin 515x2868x1 2vp4u5 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [2vp4u5] destroyed for 'admin'
+2020-05-28 08:35:45,608+0000 http-nio-8080-exec-12 admin 515x2868x1 2vp4u5 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1vl0y58]
+2020-05-28 08:36:39,478+0000 http-nio-8080-exec-1 admin 516x2924x1 1vl0y58 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 08:36:39,479+0000 http-nio-8080-exec-1 admin 516x2924x1 1vl0y58 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1vl0y58] destroyed for 'admin'
+2020-05-28 08:36:39,480+0000 http-nio-8080-exec-1 admin 516x2924x1 1vl0y58 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1grm3kc]
+2020-05-28 09:11:41,089+0000 http-nio-8080-exec-18 admin 551x3088x1 1grm3kc 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 09:11:41,091+0000 http-nio-8080-exec-18 admin 551x3088x1 1grm3kc 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1grm3kc] destroyed for 'admin'
+2020-05-28 09:11:41,091+0000 http-nio-8080-exec-18 admin 551x3088x1 1grm3kc 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [rqponf]
+2020-05-28 09:34:54,978+0000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1ry3jhj] destroyed for 'admin'
+2020-05-28 09:40:38,566+0000 http-nio-8080-exec-4 admin 580x3423x1 rqponf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-28 09:40:38,567+0000 http-nio-8080-exec-4 admin 580x3423x1 rqponf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [rqponf] destroyed for 'admin'
+2020-05-28 09:40:38,568+0000 http-nio-8080-exec-4 admin 580x3423x1 rqponf 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [yehr0j]
+2020-05-28 09:48:59,106+0000 http-nio-8080-exec-11   -   HttpSession created [1607yzc]
+2020-05-28 09:57:34,871+0000 http-nio-8080-exec-17 anonymous 597x3764x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1avy8vc]
+2020-05-28 09:57:34,873+0000 http-nio-8080-exec-17 hemanth.p 597x3764x2 1avy8vc 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1avy8vc] destroyed for 'hemanth.p'
+2020-05-28 09:57:43,163+0000 http-nio-8080-exec-15 anonymous 597x3774x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1o5wg8b]
+2020-05-28 09:57:43,164+0000 http-nio-8080-exec-15 hemanth.p 597x3774x2 1o5wg8b 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1o5wg8b] destroyed for 'hemanth.p'
+2020-05-28 09:58:02,275+0000 http-nio-8080-exec-11 hemanth.p 598x3779x1 1pxoqu7 113.193.236.241 /secure/Logout!default.jspa HttpSession [1pxoqu7] destroyed for 'hemanth.p'
+2020-05-28 09:58:02,275+0000 http-nio-8080-exec-11 hemanth.p 598x3779x1 1pxoqu7 113.193.236.241 /secure/Logout!default.jspa HttpSession created [1stfh6q]
+2020-05-28 09:58:02,275+0000 http-nio-8080-exec-11 hemanth.p 598x3779x1 1pxoqu7 113.193.236.241 /secure/Logout!default.jspa The user 'hemanth.p' has logged out.
+2020-05-28 09:58:08,572+0000 http-nio-8080-exec-10 anonymous 598x3787x1 1stfh6q 113.193.236.241 /login.jsp HttpSession [1stfh6q] destroyed for 'anonymous'
+2020-05-28 09:58:08,572+0000 http-nio-8080-exec-10 anonymous 598x3787x1 1stfh6q 113.193.236.241 /login.jsp HttpSession created [ctgqhf]
+2020-05-28 09:58:08,575+0000 http-nio-8080-exec-10 lakshmi.l 598x3787x1 1stfh6q 113.193.236.241 /login.jsp The user 'lakshmi.l' has PASSED authentication.
+2020-05-28 09:58:11,524+0000 http-nio-8080-exec-22 anonymous 598x3797x2 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1bitih2]
+2020-05-28 09:58:11,526+0000 http-nio-8080-exec-22 lakshmi.l 598x3797x2 1bitih2 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1bitih2] destroyed for 'lakshmi.l'
+2020-05-28 10:19:19,310+0000 localhost-startStop-2      HttpSession [ctgqhf] destroyed for 'lakshmi.l'
+2020-05-28 10:19:19,314+0000 localhost-startStop-2      HttpSession [yehr0j] destroyed for 'admin'
+2020-05-28 10:19:19,314+0000 localhost-startStop-2      HttpSession [1607yzc] destroyed for 'anonymous'
+2020-05-28 10:19:19,314+0000 localhost-startStop-2      HttpSession [funjcm] destroyed for 'lakshmi.l'
+2020-05-28 10:19:19,314+0000 localhost-startStop-2      HttpSession [18fmim8] destroyed for 'anonymous'
+2020-05-28 10:19:19,314+0000 localhost-startStop-2      HttpSession [6guexx] destroyed for 'anonymous'
+2020-05-28 10:19:19,315+0000 localhost-startStop-2      HttpSession [v9jzmd] destroyed for 'admin'
+2020-05-29 03:26:49,970+0000 http-nio-8080-exec-2      HttpSession created [p1nrnv]
+2020-05-29 03:27:37,919+0000 JIRA-Bootstrap      Jira 8.9.0 build: 809000 started. You can now access Jira through your web browser.
+2020-05-29 03:27:44,966+0000 http-nio-8080-exec-9 anonymous 207x3x1 p1nrnv 113.193.236.241 /secure/admin/ConfigureFieldScreen.jspa HttpSession [p1nrnv] destroyed for 'anonymous'
+2020-05-29 03:27:44,977+0000 http-nio-8080-exec-9 anonymous 207x3x1 p1nrnv 113.193.236.241 /secure/admin/ConfigureFieldScreen.jspa HttpSession created [1vkyvf8]
+2020-05-29 03:27:45,099+0000 http-nio-8080-exec-9 admin 207x3x1 p1nrnv 113.193.236.241 /secure/admin/ConfigureFieldScreen.jspa The user 'admin' has PASSED authentication.
+2020-05-29 03:28:00,293+0000 http-nio-8080-exec-16 admin 207x10x1 1vkyvf8 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-05-29 03:28:00,298+0000 http-nio-8080-exec-16 admin 207x10x1 1vkyvf8 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [1vkyvf8] destroyed for 'admin'
+2020-05-29 03:28:00,298+0000 http-nio-8080-exec-16 admin 207x10x1 1vkyvf8 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1entboi]
+2020-05-29 03:47:27,051+0000 http-nio-8080-exec-11   -   HttpSession created [12kxy77]
+2020-05-29 04:07:52,937+0000 http-nio-8080-exec-16 anonymous 247x49x1 - 209.17.97.26 / HttpSession created [1h6cu4r]
+2020-05-29 04:09:44,636+0000 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [1h6cu4r] destroyed for 'anonymous'
+2020-05-29 05:04:23,298+0000 http-nio-8080-exec-10   -   HttpSession created [1hr8lrv]
+2020-05-29 05:19:33,558+0000 localhost-startStop-2      HttpSession [1hr8lrv] destroyed for 'anonymous'
+2020-05-29 05:19:33,562+0000 localhost-startStop-2      HttpSession [12kxy77] destroyed for 'anonymous'
+2020-05-29 05:19:33,562+0000 localhost-startStop-2      HttpSession [1entboi] destroyed for 'admin'
+2020-06-16 12:55:30,953+0000 http-nio-8080-exec-2      HttpSession created [1szesg8]
+2020-06-16 12:56:22,465+0000 JIRA-Bootstrap      Jira 8.9.0 build: 809000 started. You can now access Jira through your web browser.
+2020-06-16 12:57:01,905+0000 http-nio-8080-exec-7 anonymous 777x33x1 1szesg8 113.193.236.241 /rest/gadget/1.0/login HttpSession [1szesg8] destroyed for 'anonymous'
+2020-06-16 12:57:01,906+0000 http-nio-8080-exec-7 anonymous 777x33x1 1szesg8 113.193.236.241 /rest/gadget/1.0/login HttpSession created [12rncu3]
+2020-06-16 12:57:01,928+0000 http-nio-8080-exec-7 admin 777x33x1 1szesg8 113.193.236.241 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2020-06-16 12:57:13,486+0000 http-nio-8080-exec-7 anonymous 777x140x4 - 3.17.236.107 /rest/webResources/1.0/resources HttpSession created [1rd2uid]
+2020-06-16 12:57:13,506+0000 http-nio-8080-exec-7 admin 777x140x4 1rd2uid 3.17.236.107 /rest/webResources/1.0/resources HttpSession [1rd2uid] destroyed for 'admin'
+2020-06-16 12:58:42,012+0000 http-nio-8080-exec-12 admin 778x170x1 12rncu3 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has FAILED authentication.  Failure count equals 1
+2020-06-16 12:59:03,289+0000 http-nio-8080-exec-19 admin 779x179x1 12rncu3 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa The user 'admin' has PASSED authentication.
+2020-06-16 12:59:03,292+0000 http-nio-8080-exec-19 admin 779x179x1 12rncu3 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession [12rncu3] destroyed for 'admin'
+2020-06-16 12:59:03,292+0000 http-nio-8080-exec-19 admin 779x179x1 12rncu3 113.193.236.241 /secure/admin/WebSudoAuthenticate.jspa HttpSession created [1y0y8ko]
+2020-06-16 13:06:14,506+0000 http-nio-8080-exec-22 admin 786x369x1 1y0y8ko 113.193.236.241 /secure/Logout!default.jspa HttpSession [1y0y8ko] destroyed for 'admin'
+2020-06-16 13:06:14,507+0000 http-nio-8080-exec-22 admin 786x369x1 1y0y8ko 113.193.236.241 /secure/Logout!default.jspa HttpSession created [1y8lyhe]
+2020-06-16 13:06:14,507+0000 http-nio-8080-exec-22 admin 786x369x1 1y0y8ko 113.193.236.241 /secure/Logout!default.jspa The user 'admin' has logged out.
+2020-06-16 13:06:30,072+0000 localhost-startStop-2      HttpSession [1y8lyhe] destroyed for 'anonymous'
+2020-06-17 04:29:19,384+0000 http-nio-8080-exec-2      HttpSession created [1hp19ml]
+2020-06-17 04:30:10,509+0000 JIRA-Bootstrap      Jira 8.9.0 build: 809000 started. You can now access Jira through your web browser.
+2020-06-17 04:30:18,245+0000 http-nio-8080-exec-20 anonymous 270x7x2 1hp19ml 113.193.236.241 /secure/admin/XmlRestore!default.jspa The user 'anonymous' is NOT AUTHORIZED to perform this request
+2020-06-17 04:30:18,265+0000 http-nio-8080-exec-20 anonymous 270x7x2 1hp19ml 113.193.236.241 /secure/admin/XmlRestore!default.jspa The user 'anonymous' is NOT AUTHORIZED to perform this request
+2020-06-17 04:37:25,335+0000 http-nio-8080-exec-14   -   HttpSession created [kzyesi]
